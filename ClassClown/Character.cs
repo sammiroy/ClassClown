@@ -23,19 +23,22 @@ namespace ClassClown
         }
         
         // Methods
-        public void SayPrimaryPhrase()
+        public void Speak(int phraseNum)
         {
-            Console.WriteLine($"Lvl.{this.level} {this.name}:\"{this.phrase1}\"");
+            //Console.WriteLine($"Lvl.{this.level} {this.name}:\"{this.phrase1}\"");
+            if (phraseNum == 1)
+            {
+                Console.WriteLine($"Lvl.{this.level} {this.name}:\"{this.phrase1}\"");
+            }
+            else if (phraseNum == 2)
+            {
+                Console.WriteLine($"Lvl.{this.level} {this.name}:\"{this.phrase2}\"");
+            }
         }
 
-        public void SaySecondaryPhrase()
+        public void SetLevel(int newLevel)
         {
-            Console.WriteLine($"Lvl.{this.level} {this.name}:\"{this.phrase2}\"");
-        }
-
-        public void LevelUp()
-        {
-            this.level += 1;
+            this.level = newLevel;
         }
     }
 }

@@ -14,18 +14,9 @@ namespace ClassClown // Note: actual namespace depends on the project name.
             Character char2 = new Character("Mario", "Wahoo", "I'm christ pratt");
 
             // Test Character functionality
-            // Character 1
-            char1.SayPrimaryPhrase();
-            char1.SaySecondaryPhrase();
-            char1.LevelUp();
-            char1.SayPrimaryPhrase();
-            char1.SaySecondaryPhrase();
-            // Character 2 
-            char2.SayPrimaryPhrase();
-            char2.SaySecondaryPhrase();
-            char2.LevelUp();
-            char2.SayPrimaryPhrase();
-            char2.SaySecondaryPhrase();
+            char1.Speak(1);
+            char2.SetLevel(5);
+            char2.Speak(2);
 
             // Backpack Class Stuff
             // Init Backpack Objects
