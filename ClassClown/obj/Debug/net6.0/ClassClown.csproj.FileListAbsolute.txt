@@ -1,0 +1,15 @@
+F:\Visual Studio 2022\Projects\ClassClown\bin\Debug\net6.0\ClassClown.exe
+F:\Visual Studio 2022\Projects\ClassClown\bin\Debug\net6.0\ClassClown.deps.json
+F:\Visual Studio 2022\Projects\ClassClown\bin\Debug\net6.0\ClassClown.runtimeconfig.json
+F:\Visual Studio 2022\Projects\ClassClown\bin\Debug\net6.0\ClassClown.dll
+F:\Visual Studio 2022\Projects\ClassClown\bin\Debug\net6.0\ref\ClassClown.dll
+F:\Visual Studio 2022\Projects\ClassClown\bin\Debug\net6.0\ClassClown.pdb
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.csproj.AssemblyReference.cache
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.AssemblyInfoInputs.cache
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.AssemblyInfo.cs
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.dll
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ref\ClassClown.dll
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.pdb
+F:\Visual Studio 2022\Projects\ClassClown\obj\Debug\net6.0\ClassClown.genruntimeconfig.cache
